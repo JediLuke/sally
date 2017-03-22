@@ -11,6 +11,15 @@ I am to a) simplify the structure of the code, b) add other optimization algorit
 
 Sally - Because if you're going to build something that's potentially an increibly powerful AI, at least name it after a beautiful soul :)
 
+
+Issues
+-----
+
+* Will compile but not run at the moment
+* Tabs/spaces have been screwed up when uploading to git. If you open with sublime text using the workspace file provided, it should be all good.
+
+
+
 Build
 -----
 
