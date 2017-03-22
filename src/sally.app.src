@@ -1,0 +1,17 @@
+{application, sally,
+    [
+        {description,   "TWEANN Engine utilizing particle swarm algorithm"},
+        {vsn,           "0.1.0"},
+        {registered,    []},
+        {mod,           {sally, []}},
+        {applications,
+            [
+                kernel,
+                stdlib
+            ]},
+        {env,           []},
+        {modules,       []},
+        {maintainers,   []},
+        {licenses,      []},
+        {links,         []}
+    ]}.

@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"num",
+				"numInput"
+			],
+			[
+				"V",
+				"Verdict"
+			],
+			[
+				"Reply",
+				"ReplyType"
+			],
+			[
+				"Mean",
+				"MeaningList"
+			],
+			[
+				"weigh",
+				"weight_list"
+			],
+			[
+				"Input",
+				"InputList"
+			],
+			[
+				"neuron",
+				"neuron_id"
+			],
+			[
+				"inpu",
+				"inputs"
+			],
+			[
+				"To",
+				"ToDoList"
+			],
+			[
+				"sem",
+				"semantic_graph"
+			],
+			[
+				"Data",
+				"DataFile"
+			],
+			[
+				"Load",
+				"LoadedState"
+			],
+			[
+				"St",
+				"StateVariables"
+			],
+			[
+				"print_gr",
+				"print_graph_repl"
+			],
+			[
+				"print_g",
+				"print_graph_repl"
+			],
+			[
+				"Penn",
+				"PennyNotes"
+			],
+			[
+				"sw",
+				"swarmSize"
+			],
+			[
+				"Par",
+				"ParticleName"
+			],
+			[
+				"P",
+				"P_Name"
+			],
+			[
+				"Artile",
+				"ArtilectName"
+			],
+			[
+				"best",
+				"bestConfig"
+			],
+			[
+				"b",
+				"bestConfig"
+			],
+			[
+				"New",
+				"NewVelocity"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"Co",
+				"CortexPid"
+			],
+			[
+				"fit",
+				"fitness"
+			],
+			[
+				"Option",
+				"OptionsList"
+			],
+			[
+				"lo",
+				"lobeName"
+			],
+			[
+				"Lob",
+				"LobeOutput"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luke/Workbench/Erlang/sally/src",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/neural_net_sups"
+	],
+	"file_history":
+	[
+		"/C/Users/Luke/Workbench/Erlang/nLobe/src/neuron.erl",
+		"/C/Users/Luke/Workbench/Erlang/Penny/penny.erl",
+		"/C/Users/Luke/Workbench/Erlang/nLobe/src/robey.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/pso_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/sally_sup_top.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/neural_net_sups/cortex_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/Penny/robey.erl",
+		"/C/Users/Luke/Workbench/Erlang/nLobe/src/neuron2.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/README.md",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/sally.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/artilect.erl",
+		"/C/Users/Luke/tmp/tmp.py",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/michelangelo.html",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/pso.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/neuron.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level2/lobes_sup_L2.erl",
+		"/C/Users/Luke/Workbench/Erlang/lobe/src/lobe_sup.erl",
+		"/C/Users/Luke/Workbench/HTML5/SkytraNet.html",
+		"/C/Users/Luke/Workbench/Erlang/lobe/src/lobe_app.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/neuron2.erl",
+		"/C/Users/Luke/Workbench/RabbitMQ/hello.py",
+		"/C/Users/Luke/Downloads/simple-app2.html",
+		"/C/Users/Luke/Workbench/RabbitMQ/send.py",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/skygrid-sdk-js/src/Schema.js",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/sally.app.src",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/memepage.html",
+		"/C/Users/Luke/Workbench/Temp/docs/newfile.py",
+		"/C/Users/Luke/Workbench/Erlang/Penny/luke_penny.txt",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/scape.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/devlog.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/robey.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/cortex.erl",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/Kaelan's work/GameTry2.py",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/lesson2.py",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/rest/index.html",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/readme.md",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/stack.py",
+		"/C/Users/Luke/Workbench/Kaelans Lessons/lesson1.py",
+		"/C/Users/Luke/Workbench/Python101/Lesson2/lesson2 - Copy.py",
+		"/C/Users/Luke/Workbench/Python101/Lesson2/lesson2.py",
+		"/C/Users/Luke/Workbench/Python101/Lesson1/lesson1 - Copy.py",
+		"/C/Users/Luke/Workbench/Temp/docs/rest-api-guide.rst",
+		"/C/Users/Luke/Workbench/Temp/docs/README.md",
+		"/C/Users/Luke/Workbench/Temp/docs/device-sdk-guide.rst",
+		"/C/Users/Luke/Workbench/Temp/docs/javascript-sdk-guide.rst",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/particle.erl",
+		"/C/Users/Luke/Workbench/Python101/Lesson1/lesson1.py",
+		"/C/Users/Luke/Workbench/Python101/Lesson1/helloworld.py",
+		"/C/Users/Luke/Workbench/Temp/docs/make.bat",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/neural_net_sups/neuron_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/Penny/src/penny.app.src",
+		"/C/Users/Luke/Workbench/Erlang/Penny/src/penny_app.erl",
+		"/C/Users/Luke/Workbench/Erlang/Penny/src/penny.erl",
+		"/C/Users/Luke/Workbench/Erlang/Penny/src/Penny_sup.erl",
+		"/C/Users/Luke/Workbench/Lisp/Penny/penny.lisp",
+		"/C/Users/Luke/Workbench/Erlang/Penny/rebar.config",
+		"/C/Users/Luke/Workbench/Erlang/sally/rebar.config",
+		"/C/Users/Luke/Workbench/Erlang/sally/_build/default/lib/sally/src/lobes/neural_net/neuron.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level2/orbito_sup_L2.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/helia.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/helia.app.src",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/lobes/neural_net/particle.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/supervisors/Level3_Lobes/neural_net_sups/neuron_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/lobes/neural_net/neuron.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/lobes/pso.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/lobes/neural_net/scape.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/lobes/neural_net/cortex.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/helia.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/artilect.erl",
+		"/C/Users/Luke/Workbench/Erlang/helia/src/helia.app.src",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/skytest2.py",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/skytest.py",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/VirtualDevice.py",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/fulldocs.md",
+		"/C/Users/Luke/Workbench/Lisp/helloworld.lisp",
+		"/C/Users/Luke/Workbench/Erlang/toh/src/toh_app.erl",
+		"/C/Users/Luke/Workbench/Erlang/toh/src/toh_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/toh/src/toh.app.src",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/package.json",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/skygrid-sdk-python/README.md",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/city-fitbit/src/css/stylish-portfolio.css",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/city-fitbit/src/html/includes/head.pug",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/city-fitbit/src/html/includes/footer.pug",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/gulpfile.js",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/getting-started/beginners.md",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/city-fitbit/README.md",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/fulldocs.pug",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/index.html",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/developer-docs/src/html/index.pug",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/city-fitbit/gulpfile.js",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/getting-started/index.html",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/overview.md",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/SkygridDocs/docs.html",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/guides/overview.md",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/sally_sup_L1.erl",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/beginners.md",
+		"/C/Users/Luke/Workbench/Skygrid_Dev/docs.skygrid.io/guides.html",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/behaviours/my_node.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/behaviours/node.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/web_handlers/toppage_handler.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/lookup_table.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/cortex_modules/_artilect.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/cortex_modules/thalamus.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/cortex_modules/orbito.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/backprop.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/procedure.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/.hgignore",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/_exoself.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/neural_net_sups/exoself_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/neural_net_sups/scape_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/dev_log.md",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/behaviours/node.hrl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/lobes/neural_net/exoself.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level2/artilect_sup_L2.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/behaviours",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level2/thalamus_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/samy/src/samy.app.src",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/lobes_sup_L2.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/lookup_table_sup_L3.erl",
+		"/C/Users/Luke/Workbench/Erlang/sally/src/supervisors/Level3_Lobes/exoself_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/samy/src/samy_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/samy/src/samy_app.erl",
+		"/C/Users/Luke/Workbench/Erlang/erlNet/README.md",
+		"/C/Users/Luke/Workbench/Erlang/erlNet/src/erlNet_sup.erl",
+		"/C/Users/Luke/Workbench/Erlang/erlNet/src/erlNet.app.src",
+		"/C/Users/Luke/Workbench/Erlang/erlNet/src/erlNet_app.erl",
+		"/C/Users/Luke/Workbench/Erlang/ErlaNet/ErlaNet.erl",
+		"/C/Users/Luke/Workbench/Erlang/Integrations/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";,",
+			"print_graph_repl",
+			"Type",
+			"#State",
+			"_name_name",
+			"neuron:input",
+			"weightList",
+			"State(get, weightList)",
+			"State(get, inputList)",
+			"State#",
+			"State#state{inputList=NewInputList}",
+			"State#state.name",
+			"State#state.inputList",
+			"State#state.bias",
+			"State#state.weightList",
+			"State#state.neuronId",
+			"neuron:input",
+			"helia",
+			"OldConfig:",
+			"NewVelocity",
+			"_sup:spawn_scape",
+			".\n",
+			"LAW",
+			"ebus",
+			"Params",
+			"neuron",
+			"set",
+			"scape",
+			"cortex",
+			"exoself",
+			"/d/",
+			"artilect",
+			"procedure",
+			"lookup_table_sup",
+			"procedure"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"print_list_repl",
+			"ObjectType",
+			"_name",
+			"neuron:input_name",
+			"weightlist",
+			"State(get, weightlist)",
+			"State(get, inputlist)",
+			"State(set, {inputlist, NewInputList})",
+			"State(get, nn_name)",
+			"State(get, inputList)",
+			"State(get, bias)",
+			"State(get, weightList)",
+			"State(get, neuron_id)",
+			"neuron:input_name",
+			"sally",
+			":new",
+			"ArtilectName",
+			"node",
+			"neuron",
+			"scape",
+			"cortex",
+			"lobes",
+			"lookup_table",
+			"lookup_table_sup_L3",
+			"lookup_table"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sally-sublime.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Penny\\src\\penny.app.src"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
